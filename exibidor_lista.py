@@ -26,6 +26,7 @@ lista[pos] = valor
 
 print("Lista alterada:", lista)
 
+# questao 4
 novo_numero = int(input("Insira mais um número para adicionar à lista: "))
 lista.append(novo_numero)
 
